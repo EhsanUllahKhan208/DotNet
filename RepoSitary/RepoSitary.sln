@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepoSitary", "RepoSitary.csproj", "{3F154AE1-2282-4ECD-91D9-EFD82E996BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F154AE1-2282-4ECD-91D9-EFD82E996BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F154AE1-2282-4ECD-91D9-EFD82E996BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F154AE1-2282-4ECD-91D9-EFD82E996BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F154AE1-2282-4ECD-91D9-EFD82E996BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31B3F249-8B09-404D-BB8D-4C62BF2308A9}
+	EndGlobalSection
+EndGlobal
